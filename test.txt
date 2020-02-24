@@ -1,2 +1,6 @@
-"hello world" this is your leader
+"hello world" this is your leader Anibal not Micheal
+<<<<<<< HEAD
 "my world now"
+=======
+"your right it is yours here you go"
+>>>>>>> b4eed977345e0fbe18430ea8d19eed9537534c08
