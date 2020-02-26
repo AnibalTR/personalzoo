@@ -1,22 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="32e443d5-f456-46d0-9ae5-f362fe77623f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+    <list default="true" id="d733ef78-96a1-426c-a67a-d0322ab92cb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/neumont/edu/csc150/c/model/Encryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/neumont/edu/csc150/c/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 4c0a4ca6894bab079953788c04f89fe8d55a5b7e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+>>>>>>> 4c0a4ca6894bab079953788c04f89fe8d55a5b7e
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YGiowRMLzU2b6wADnBCRGClB3p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../oopfinal" />
   </component>
   <component name="RunDashboard">
@@ -30,10 +57,13 @@
         </RuleState>
       </list>
     </option>
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 4c0a4ca6894bab079953788c04f89fe8d55a5b7e
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="neumont.edu.csc150.c.test.Test" />
       <module name="FinalProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -41,15 +71,31 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+>>>>>>> 4c0a4ca6894bab079953788c04f89fe8d55a5b7e
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="32e443d5-f456-46d0-9ae5-f362fe77623f" name="Default Changelist" comment="" />
       <created>1582643536699</created>
       <option name="number" value="Default" />
@@ -58,12 +104,23 @@
       <workItem from="1582643542643" duration="201000" />
       <workItem from="1582736664775" duration="200000" />
       <workItem from="1582736883745" duration="216000" />
+=======
+      <changelist id="d733ef78-96a1-426c-a67a-d0322ab92cb9" name="Default Changelist" comment="" />
+      <created>1582576738738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582576738738</updated>
+      <workItem from="1582576739843" duration="950000" />
+      <workItem from="1582647347136" duration="42000" />
+      <workItem from="1582736667392" duration="3162000" />
+>>>>>>> 4c0a4ca6894bab079953788c04f89fe8d55a5b7e
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -76,5 +133,32 @@
         </entry>
       </map>
     </option>
+=======
+  <component name="WindowStateProjectService">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582738795150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582738795150" />
+    <state x="173" y="171" key="FileChooserDialogImpl" timestamp="1582647386561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="173" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582647386561" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582740184288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582740184288" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582740184288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582740184288" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582740184288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582740184288" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582740184288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582740184288" />
+>>>>>>> 4c0a4ca6894bab079953788c04f89fe8d55a5b7e
   </component>
 </project>
